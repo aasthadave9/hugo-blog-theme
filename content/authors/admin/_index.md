@@ -1,6 +1,6 @@
 ---
 title: Aastha Dave
-role: Electronics & Communication and Economics student
+role: VLSI enthusiast
 bio: "Aastha Dave is a final year undergraduate in Electronics & Communication
   Engineering and Economics at BITS Pilani, India. "
 social:
@@ -13,9 +13,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
